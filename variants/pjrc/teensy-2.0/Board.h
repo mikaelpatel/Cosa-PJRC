@@ -1,0 +1,3 @@
+#define COSA_CUSTOM_BOARD
+#define PJRC_TEENSY_2_0
+
