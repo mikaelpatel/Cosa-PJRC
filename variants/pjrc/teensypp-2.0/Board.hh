@@ -18,8 +18,8 @@
  * This file is part of the Arduino Che Cosa project.
  */
 
-#ifndef PJRC_TEENSYPP_2_0_HH
-#define PJRC_TEENSYPP_2_0_HH
+#ifndef COSA_PJRC_TEENSYPP_2_0_HH
+#define COSA_PJRC_TEENSYPP_2_0_HH
 
 /* This board is based on AT90USB1286 */
 #define BOARD_AT90USB1286

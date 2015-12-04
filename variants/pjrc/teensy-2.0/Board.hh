@@ -18,8 +18,8 @@
  * This file is part of the Arduino Che Cosa project.
  */
 
-#ifndef PJRC_TEENSY_2_0_HH
-#define PJRC_TEENSY_2_0_HH
+#ifndef COSA_PJRC_TEENSY_2_0_HH
+#define COSA_PJRC_TEENSY_2_0_HH
 
 /* This board is based on ATmega32U4 */
 #define BOARD_ATMEGA32U4
